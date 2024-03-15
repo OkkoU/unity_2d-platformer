@@ -15,7 +15,7 @@ https://github.com/OkkoU/unity_2d-platformer/assets/95446418/8dfbbcf3-2489-4c98-
 ### Gameplay:
 - The player will be controlled with the left and right arrow keys, jump with the space key and shoot fireballs with the left mouse-click.
 - The player starts with a starting health of 3 and will lose lives when running into traps and/or enemies and die when losing all health.
--
+-...
 
 
 ### Game Design:
